@@ -44,7 +44,7 @@ This dashboard brings business performance to life. It includes:
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 - **Slicers** for region, category, and segment  
 - **Drill-through pages** to explore product-level insights  
