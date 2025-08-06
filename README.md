@@ -35,12 +35,12 @@ This dashboard brings business performance to life. It includes:
 - **Discount vs. Profit Impact** scatter visuals for strategy guidance
 
 ### Page 1️: Sales & Returns Dashboard  
-![Dashboard Page 1](dashboard_page1.jpg)
+![Dashboard Page 1](dashboard_page1.jpeg)
 
 ---
 
 ### Page 2️: Insights & Recommendations  
-![Dashboard Page 2](dashboard_page2.jpg)
+![Dashboard Page 2](dashboard_page2.jpeg)
 
 ---
 
