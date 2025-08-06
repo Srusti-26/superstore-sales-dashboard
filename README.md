@@ -34,11 +34,13 @@ This dashboard brings business performance to life. It includes:
 - **Category & Sub-Category Insights** via interactive bar charts  
 - **Discount vs. Profit Impact** scatter visuals for strategy guidance
 
-###  Dashboard Preview
+### Page 1️: Sales & Returns Dashboard  
+![Dashboard Page 1](dashboard_page1.jpg)
 
-![Dashboard ](dashboard.jpeg)
+---
 
-![Insights Page](insight.jpeg)
+### Page 2️: Insights & Recommendations  
+![Dashboard Page 2](dashboard_page2.jpg)
 
 ---
 
