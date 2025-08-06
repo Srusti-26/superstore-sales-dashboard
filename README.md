@@ -1,3 +1,4 @@
+# superstore-sales-dashboard
 #  Superstore Sales Analysis
 
 This project analyzes retail data from a fictional Superstore, using Power BI to uncover trends in sales, profit, customer segments, and regional performance. It showcases dynamic, interactive dashboards built for actionable insights.
